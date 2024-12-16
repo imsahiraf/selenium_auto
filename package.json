@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
+    "chromedriver": "^116.0.0",
+    "firefox": "^0.0.1",
+    "geckodriver": "^4.2.0",
+    "node-fetch": "^3.3.2",
     "selenium-webdriver": "^4.11.1"
   }
 }
